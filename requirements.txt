@@ -1,0 +1,4 @@
+requests
+gitpython
+autopep8
+pylint
